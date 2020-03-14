@@ -1,0 +1,18 @@
+Directed Graph - Giant Component: Directed
+  Nodes:                    109293
+  Edges:                    6423647
+  Zero Deg Nodes:           4
+  Zero InDeg Nodes:         21
+  Zero OutDeg Nodes:        1292
+  NonZero In-Out Deg Nodes: 107984
+  Unique directed edges:    6423647
+  Unique undirected edges:  4548800
+  Self Edges:               606
+  BiDir Edges:              3750300
+  Closed triangles:         25542734
+  Open triangles:           5479933273
+  Frac. of closed triads:   0.004640
+  Connected component size: 0.999963
+  Strong conn. comp. size:  0.987364
+  Approx. full diameter:    6
+  90% effective diameter:  2.851364

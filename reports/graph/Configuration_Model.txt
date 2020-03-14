@@ -1,0 +1,18 @@
+configuration model -->:
+  Nodes:                    109293
+  Edges:                    4392319
+  Zero Deg Nodes:           4
+  Zero InDeg Nodes:         4
+  Zero OutDeg Nodes:        4
+  NonZero In-Out Deg Nodes: 109289
+  Unique directed edges:    8784638
+  Unique undirected edges:  4392319
+  Self Edges:               0
+  BiDir Edges:              8784638
+  Closed triangles:         25788187
+  Open triangles:           3724154970
+  Frac. of closed triads:   0.006877
+  Connected component size: 0.999963
+  Strong conn. comp. size:  0.999963
+  Approx. full diameter:    4
+  90% effective diameter:  2.856691

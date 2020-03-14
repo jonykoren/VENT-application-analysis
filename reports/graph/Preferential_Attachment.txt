@@ -1,0 +1,18 @@
+Preferential Attachment -->:
+  Nodes:                    109293
+  Edges:                    4480152
+  Zero Deg Nodes:           0
+  Zero InDeg Nodes:         0
+  Zero OutDeg Nodes:        0
+  NonZero In-Out Deg Nodes: 109293
+  Unique directed edges:    8960304
+  Unique undirected edges:  4480152
+  Self Edges:               0
+  BiDir Edges:              8960304
+  Closed triangles:         1569752
+  Open triangles:           943834141
+  Frac. of closed triads:   0.001660
+  Connected component size: 1.000000
+  Strong conn. comp. size:  1.000000
+  Approx. full diameter:    4
+  90% effective diameter:  2.884743

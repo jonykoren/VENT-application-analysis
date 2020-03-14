@@ -1,0 +1,18 @@
+Node Rewiring -->:
+  Nodes:                    109293
+  Edges:                    4548194
+  Zero Deg Nodes:           4
+  Zero InDeg Nodes:         4
+  Zero OutDeg Nodes:        4
+  NonZero In-Out Deg Nodes: 109289
+  Unique directed edges:    9096388
+  Unique undirected edges:  4548194
+  Self Edges:               0
+  BiDir Edges:              9096388
+  Closed triangles:         30592501
+  Open triangles:           5464783972
+  Frac. of closed triads:   0.005567
+  Connected component size: 0.999963
+  Strong conn. comp. size:  0.999963
+  Approx. full diameter:    4
+  90% effective diameter:  2.819429
